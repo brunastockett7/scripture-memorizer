@@ -1,0 +1,14 @@
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\bin\Debug\net8.0\scripture-memorizer.exe
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\bin\Debug\net8.0\scripture-memorizer.deps.json
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\bin\Debug\net8.0\scripture-memorizer.runtimeconfig.json
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\bin\Debug\net8.0\scripture-memorizer.dll
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\bin\Debug\net8.0\scripture-memorizer.pdb
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.dll
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\refint\scripture-memorizer.dll
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.pdb
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\scripture-memorizer.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Documents\scripture-memorizer\obj\Debug\net8.0\ref\scripture-memorizer.dll
